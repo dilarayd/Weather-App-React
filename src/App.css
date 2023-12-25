@@ -1,0 +1,26 @@
+.dropdown-container {
+  background-color:#F6FAFD;
+  padding: 20px;
+}
+
+.dropdown-box {
+  padding: 10px;
+  border-radius: 10px;
+  border-color: #1a4f77;  
+}
+
+.card-top{
+  margin-top: 15px;
+  margin-left: 10px;
+  text-align: center;  
+}
+
+.temperature{
+  text-align: center;
+}
+
+.temperature-min{
+  color: rgb(111, 111, 111);
+  font-weight: lighter;
+}
+
